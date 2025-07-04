@@ -48,9 +48,9 @@ Kod yapısı **modüler**, veri işlemleri ve arayüz ayrı tutulmuştur.
 
 ---
 
-## 📸 Ekran Görüntüleri
+## 📸 Video Görüntüleri
 
-> (Buraya ekran görüntülerini eklersen çok daha etkili olur.)
+> 👉 Video'ya ulaşmak için: [Video Linki](https://www.youtube.com/watch?v=MHCPIqRilds&t=476s)
 
 ---
 
@@ -100,7 +100,7 @@ Bu proje MIT Lisansı ile lisanslanmıştır. Detaylar için `LICENSE` dosyasın
 ## ✨ Katkı ve Geri Bildirim
 
 Bu projeyi geliştirmeye devam etmek istiyorum. Her türlü PR, issue veya yorumunuz çok kıymetlidir.  
-👉 Bana ulaşmak için: [LinkedIn Profilim](https://www.linkedin.com)
+👉 Bana ulaşmak için: [LinkedIn Profilim](https://www.linkedin.com/in/ismailyaltirik/)
 
 ---
 
